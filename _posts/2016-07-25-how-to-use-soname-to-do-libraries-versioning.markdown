@@ -1,6 +1,6 @@
 ---
 published: false
-title: How to use soname to do libraries versioning?
+title: Use soname to do libraries versioning
 layout: post
 ---
 There are three kinds of names you should clarify when linking.  
