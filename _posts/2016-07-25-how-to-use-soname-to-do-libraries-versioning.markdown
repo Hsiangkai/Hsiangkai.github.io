@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: Use soname to do libraries versioning
 layout: post
 ---
